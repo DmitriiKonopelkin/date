@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>Дельта дат</title>
+    <title>Калькулятор дельты дат</title>
 </head>
 <body>
     <?php
